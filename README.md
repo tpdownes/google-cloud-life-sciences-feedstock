@@ -147,6 +147,4 @@ In order to produce a uniquely identifiable distribution:
 Feedstock Maintainers
 =====================
 
-* [@tpdownes](https://github.com/tpdownes/)
 * [@tswast](https://github.com/tswast/)
-
